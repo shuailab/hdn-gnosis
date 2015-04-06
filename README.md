@@ -1,4 +1,4 @@
-# High Dimensional Networked Data Diagnosis and Prognosis
+# High Dimensional Networked Systems: Learning, Monitoring, Diagnosis, and Prognosis
 
 hdn-gnosis is under development for solving problems related to system-level decision making and quality improvement. 
 We are researching and developing methodologies for modeling, monitoring, diagnosis, and prognosis of complex networked systems, 
